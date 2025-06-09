@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/term_chess.dir/main.c.o CMakeFiles/term_chess.dir/ui.c.o -o term_chess  -lcurses /usr/lib/x86_64-linux-gnu/libform.so -lmenu 

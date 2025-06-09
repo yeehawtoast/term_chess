@@ -1,0 +1,3 @@
+/home/chriscoded/repos/fun_projects/term_chess/build/CMakeFiles/term_chess.dir
+/home/chriscoded/repos/fun_projects/term_chess/build/CMakeFiles/edit_cache.dir
+/home/chriscoded/repos/fun_projects/term_chess/build/CMakeFiles/rebuild_cache.dir

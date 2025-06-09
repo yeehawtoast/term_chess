@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include <ncurses.h>
 
-int main(void)
-{
-    printf("Hello, World!\n");
+void ui_init();
+
+int main() {
+    ui_init();
     return 0;
 }
